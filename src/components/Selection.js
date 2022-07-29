@@ -11,5 +11,3 @@ export default function Selection(props) {
     </div>
   );
 }
-Footer
-© 2022 GitHub, Inc
